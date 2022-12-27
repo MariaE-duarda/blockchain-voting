@@ -1,12 +1,7 @@
-# DigitalInnovationOne-Aula03
+# Blockchain-voting
 
-Repositório de código para a Aula 03 - Sistema de votação baseado em Ethereum
+Development of voting system with Blockchain and Ethereum Smart Contracts.
 
-## Tópicos abordados nesse projeto
+## Topics covered in this project
 
-* Smart Contract
-* Contract ABI - Application Binary Interface
-* Servidor web JavaScript
-* HTML interface
-* Deploy em ambiente local - Ganache
-* Deploy em ambiente de teste - Testnet
+`` Smart Contract`` ``Contract ABI - Application Binary Interface`` ``Servidor web JavaScript`` ``HTML interface`` ``Deploy em ambiente local - Ganache`` ``Deploy em ambiente de teste - Testnet``
